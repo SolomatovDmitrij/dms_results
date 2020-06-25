@@ -1,0 +1,37 @@
+#logo {
+    margin: 20px;
+    transition: all 0.5s ease-in-out;
+}
+/*
+h3 {
+    margin-block-end: 10px;
+}
+*/
+#logo svg:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+#logo svg {
+  padding-right: 20px;
+}
+
+/*
+#filters {
+    display: none;
+}
+*/
+.filter {
+    display: flex;
+}
+.filter.hid {
+    display: none;
+}
+#main_header {
+    display: inline;
+}
+/*
+#svg:hover {
+    transform:translateX(300px);
+}
+*/
