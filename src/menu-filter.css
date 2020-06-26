@@ -2,6 +2,21 @@
     margin: 20px;
     transition: all 0.5s ease-in-out;
 }
+
+.finger {
+    position: absolute;
+    left: -50px;
+    transition-duration: 1s;
+}
+.finger.move-right {
+    transform: translateX(70px);
+}
+
+#stripe {
+}
+
+#icons {
+}
 /*
 h3 {
     margin-block-end: 10px;
@@ -14,6 +29,7 @@ h3 {
 }
 #logo svg {
   padding-right: 20px;
+  padding-left: 20px;
 }
 
 /*
