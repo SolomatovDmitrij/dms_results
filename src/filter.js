@@ -5,7 +5,7 @@ export default function Filter(props) {
     if(!props.list) {
         return ""
     }
-    console.log('props', props)
+    //console.log('props', props)
     
     return (
         <section className="tooltip">
