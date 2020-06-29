@@ -1,6 +1,7 @@
 {
   "name": "dms_avtodor",
   "version": "0.1.0",
+  "homepage": "http://147.78.66.199/dms/",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.10.2",
